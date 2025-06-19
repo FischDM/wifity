@@ -31,6 +31,7 @@ Using it on unauthorized networks may be illegal in your country – **use respo
 
 - Linux-based system (tested on Kali Linux)
 - Python 3.x
+- pip install colorama
 - `aircrack-ng` suite installed  
   → `sudo apt install aircrack-ng`
 - `airgraph-ng` installed  
