@@ -12,7 +12,7 @@ The goal is to automate some common WiFi-related tasks using Python and command-
 The code is not perfect – I'm not a great coder – but I’m sharing it in case others find it useful or want to learn from it.
 
 > 💬 I'm open to feedback or improvement suggestions!  
-> Feel free to contact me on Discord: **fischdeinemum**
+> Feel free to contact me on Discord: **drevalis**
 
 ## 💻 System Info
 
